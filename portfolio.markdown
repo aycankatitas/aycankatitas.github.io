@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Portfolio
-permalink: /portfolio/
+permalink: /dataportfolio/
 ---
 
 ## Selected Projects in Data Science, Machine Learning, and NLP 
